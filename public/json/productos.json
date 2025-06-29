@@ -1,0 +1,22 @@
+[
+  { "id": 1, "nombre": "Alcohol en Gel", "precio": 5.50 , "imagen": "img1.jpg"},
+  { "id": 2, "nombre": "Enjuague Bucal Colgate", "precio": 18.90 , "imagen": "img2.jpg"},
+  { "id": 3, "nombre": "Ensure Advance", "precio": 94.90 , "imagen": "img3.jpg"},
+  { "id": 4, "nombre": "Jabon Carbon Activado", "precio": 9.90 , "imagen": "img4.jpg"},
+  { "id": 5, "nombre": "Vitamina Zinc", "precio": 14.90 , "imagen": "img5.jpg"},
+  { "id": 6, "nombre": "Vitamina E", "precio": 30.00 , "imagen": "img6.jpg"},
+  { "id": 7, "nombre": "Cereal Infantil", "precio": 15.90 , "imagen": "img7.jpg"},
+  { "id": 8, "nombre": "Glucovit Max", "precio": 86.90 , "imagen": "img8.jpg"},
+  { "id": 9, "nombre": "Goicochea crema para piernas", "precio": 30.90 , "imagen": "img9.jpg"},
+  { "id": 10, "nombre": "Espuma para afeitar", "precio": 18.90 , "imagen": "img10.jpg"},
+  { "id": 11, "nombre": "Mochila de emergencia", "precio": 43.00 , "imagen": "img11.jpg"},
+  { "id": 12, "nombre": "Oximetro", "precio": 59.00 , "imagen": "img12.jpg"},
+  { "id": 13, "nombre": "Alcohol de 70° - Promo", "precio": 20.00 , "imagen": "img13.jpg"},
+  { "id": 14, "nombre": "Agua Micelar Nivea", "precio": 33.90 , "imagen": "img14.jpg"},
+  { "id": 15, "nombre": "Vitamina Magnesio", "precio": 11.90 , "imagen": "img15.jpg"},
+  { "id": 16, "nombre": "Alcohol de 90° - Promo", "precio": 20.00 , "imagen": "img16.jpg"},
+  { "id": 17, "nombre": "Ensure Advance - Promo", "precio": 187.00 , "imagen": "img17.jpg"},
+  { "id": 18, "nombre": "Pediasure - Promo", "precio": 75.00 , "imagen": "img18.jpg"},
+  { "id": 19, "nombre": "Polvos antisudorales", "precio": 8.50 , "imagen": "img19.jpg"},
+  { "id": 20, "nombre": "Spray AntiResfriado Vick ", "precio": 24.90 , "imagen": "img20.jpg"}
+]
