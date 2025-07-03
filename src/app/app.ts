@@ -2,11 +2,12 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { Header } from './shared/header/header';
 import { Footer } from './shared/footer/footer';
+import { ReactiveFormsModule } from '@angular/forms';
 
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet , Header, Footer],
+  imports: [RouterOutlet, Header, Footer],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })

@@ -1,7 +1,4 @@
 import { Component, inject, OnInit } from '@angular/core';
-//import { ProductoService } from '../../services/producto';
-//import { ProductoModel } from '../../models/producto-model';
-//import { CarritoService } from '../../services/carrito';
 import { RouterModule } from '@angular/router';
 import { ProductoService } from '../../../core/services/producto';
 import { CarritoService } from '../../../core/services/carrito';

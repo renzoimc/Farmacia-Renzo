@@ -3,8 +3,6 @@ import { CommonModule } from '@angular/common';
 import { Component, inject, NgModule } from '@angular/core';
 import { FormsModule, NgModel } from '@angular/forms';
 import { CarritoService } from '../../core/services/carrito';
-//import { CarritoService } from '../services/carrito';
-
 
 
 @Component({
